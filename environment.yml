@@ -1,0 +1,5 @@
+name: zf
+channels:
+  - defaults
+prefix: /Users/torbenschnuchel/anaconda3/envs/zf
+
